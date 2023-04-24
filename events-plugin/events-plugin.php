@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Events Plugin
-Plugin URI: http://yourwebsite.com
+Plugin URI: https://github.com/JordanLJ/events-plugin/
 Description: Adds custom post type 'Events' to the WordPress admin dashboard with details like title, description, date, and location, and displays upcoming events in a list format using shortcode and sidebar widget.
 Version: 1.0
-Author: Your Name
-Author URI: http://yourwebsite.com/
+Author: Lekeulem Nguefack Maurice Jordan
+Author URI: https://github.com/JordanLJ/
 License: GPL2
 */
 
